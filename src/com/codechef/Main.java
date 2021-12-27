@@ -14,3 +14,4 @@ public class Main {
         System.out.println("The product of "+a+" and "+b+" is "+sum);
     }
 }
+// the negative sign will make the subtraction operation to addition:
