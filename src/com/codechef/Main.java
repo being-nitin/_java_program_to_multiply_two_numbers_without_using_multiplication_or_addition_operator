@@ -11,6 +11,6 @@ public class Main {
     for(int i=0;i<b;i++){
         sum = sum -(-a);
     }
-        System.out.println(sum);
+        System.out.println("The product of "+a+" and "+b+" is "+sum);
     }
 }
